@@ -1,10 +1,7 @@
 # Tech-report-4
-Here is the link for ffmpeg:
-https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00
+Here is the link for No Wi-Fi at the Coffee Shop? How to Turn Your Phone Into a Mobile Hotspot
+https://www.pcmag.com/how-to/turn-your-phone-into-a-wi-fi-hotspot
 
-Meaning of ffmpeg:
-FFmpeg is a free and open-source software project that provides a suite of libraries and tools for handling multimedia files and streams, including video and audio.
-https://en.wikipedia.org/wiki/FFmpeg
-
-Additional link:
+what is mobile hotspot?
+A mobile hotspot allows us to connect phones data with others using wifi, Bluetooth, or USB. Your phone essentially becomes a mini Wi-Fi router.
 
